@@ -1,0 +1,72 @@
+NIA: 0000000
+NOM: nombre del alumno
+COGNOMS: apellidos del alumno
+Paraula 1: casa
+Paraula 2: cassa
+La distancia de edicio es: 1
+TEMPS: 0.000002
+
+NIA: 0000000
+NOM: nombre del alumno
+COGNOMS: apellidos del alumno
+Paraula 1: casa
+Paraula 2: caa
+La distancia de edicio es: 1
+TEMPS: 0.000002
+
+NIA: 0000000
+NOM: nombre del alumno
+COGNOMS: apellidos del alumno
+Paraula 1: casa
+Paraula 2: caxa
+La distancia de edicio es: 1
+TEMPS: 0.000002
+
+NIA: 0000000
+NOM: nombre del alumno
+COGNOMS: apellidos del alumno
+Paraula 1: casa
+Paraula 2: caas
+La distancia de edicio es: 1
+TEMPS: 0.000002
+
+NIA: 0000000
+NOM: nombre del alumno
+COGNOMS: apellidos del alumno
+Paraula 1: 123
+Paraula 2: 321
+La distancia de edicio es: 2
+TEMPS: 0.000002
+
+NIA: 0000000
+NOM: nombre del alumno
+COGNOMS: apellidos del alumno
+Paraula 1: 1234
+Paraula 2: 4321
+La distancia de edicio es: 3
+TEMPS: 0.000002
+
+NIA: 0000000
+NOM: nombre del alumno
+COGNOMS: apellidos del alumno
+Paraula 1: palindromo
+Paraula 2: planirdmoo
+La distancia de edicio es: 4
+TEMPS: 0.000003
+
+NIA: 0000000
+NOM: nombre del alumno
+COGNOMS: apellidos del alumno
+Paraula 1: coche
+Paraula 2: cotche
+La distancia de edicio es: 1
+TEMPS: 0.000001
+
+NIA: 0000000
+NOM: nombre del alumno
+COGNOMS: apellidos del alumno
+Paraula 1: calimocho
+Paraula 2: clmch
+La distancia de edicio es: 4
+TEMPS: 0.000005
+
