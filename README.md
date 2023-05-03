@@ -1,4 +1,4 @@
-# N-Queens C++
+# N-Queens in C++
 N-Queens problem with C++.
 
 Authors: Pau Blasco Roca.
