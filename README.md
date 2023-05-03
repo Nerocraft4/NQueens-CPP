@@ -1,2 +1,2 @@
-# NQueens-CPP
-N Queens problem with C++
+# N-Queens C++
+N-Queens problem with C++.
